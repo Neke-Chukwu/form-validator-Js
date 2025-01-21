@@ -12,7 +12,6 @@ function checkdata()
         alert("Please enter your email");
         emailid.focus();
         return false;
-
-        return true;
     }
+    return true;
 
